@@ -34,7 +34,7 @@ package com.vandenbreemen.standardandroidlogging.log.slf4j;
  */
 public class FormattingTuple {
 
-    static public FormattingTuple NULL = new FormattingTuple(null);
+    public static final FormattingTuple NULL = new FormattingTuple(null);
 
     private String message;
     private Throwable throwable;
