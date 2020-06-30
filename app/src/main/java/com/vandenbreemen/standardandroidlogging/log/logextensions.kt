@@ -1,6 +1,4 @@
-package com.vandenbreemen.mobilesecurestorage.log
-
-import com.vandenbreemen.standardandroidlogging.log.CurrentSystemLog
+package com.vandenbreemen.standardandroidlogging.log
 
 /**
  * Log error with the given tag
